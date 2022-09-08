@@ -1,0 +1,2 @@
+# absolwent
+aplikacja jakas tam
